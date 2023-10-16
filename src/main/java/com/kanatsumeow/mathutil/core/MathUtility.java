@@ -24,7 +24,7 @@ public class MathUtility {
         
         if(n == 0 || n == 1) return 1;
         
-        long result = 1; //biến tích lũy, gom dồn việc nhân, biến con heo đất
+        long result = 10; //biến tích lũy, gom dồn việc nhân, biến con heo đất
                          //acc /accmulation
 
        //sống sót đến for, sure n = 2..20                  
